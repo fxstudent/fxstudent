@@ -28,7 +28,9 @@ description: >-
 baseurl: "/"
 url: "https://fxstudent.netlify.app"
 twitter_username: firefox_st
-github_username:  fxstudent
+github_username: fxstudent
+disqus:
+  shortname: fxstudent
 
 # Build settings
 theme: minima
